@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 
-**franklinen/franklinen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Twitter Sentiment Analysis using BERT models
 - 🌱 I’m currently learning Machine Learning Operations and Python
 - 👯 I’m looking to collaborate on Projects that involve Natural Language Processing
