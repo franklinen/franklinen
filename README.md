@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **franklinen/franklinen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: for Technical Writing, Data Science Projects, Coaching, Help with Projects, Freelance Projects  
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I enjoy data science more when i am able to travel and see the country side
--->
+
