@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Frankline Ononiwu
 
 
 - 🔭 I’m currently working on Twitter Sentiment Analysis using BERT models
