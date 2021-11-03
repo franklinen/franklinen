@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Technical Writing, Data Science Projects, Coaching, Help with Projects, Freelance Projects 
 - 📫 How to reach me: 
-- <img src="{https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white}" /> 
+- ![image]({https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white})  my twitter: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I enjoy data science more when i am able to travel and see the country side
 
