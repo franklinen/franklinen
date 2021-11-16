@@ -1,6 +1,4 @@
-![image info](./header.png)
-
-# Hi 👋, I'm Frankline
+## Hi 👋, I'm Frankline
 
 - 🔭 I’m currently working on Twitter Sentiment Analysis using BERT models
 - 🌱 I’m currently learning Machine Learning Operations and Python
