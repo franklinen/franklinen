@@ -14,6 +14,9 @@
 
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franklinen)](https://github.com/anuraghazra/github-readme-stats)
 
+- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=franklinen&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - Latest medium article
 
 [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=franklineo&limit=1&bg=white&text=black)](https://medium.com/@omidnikrah)
