@@ -8,7 +8,7 @@
 - 📫 How to reach me:  
 - ⚡ Fun fact: I enjoy data science more when i am able to travel and see the country side
 
-- Latest medium article
+- ![image]({https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white}) Latest medium article
 
   [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=franklineo&limit=1&bg=white&text=black)](https://medium.com/@omidnikrah)
 
