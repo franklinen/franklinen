@@ -10,5 +10,5 @@
 
 - Latest medium article
 
-  [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=franklineo)](https://medium.com/@omidnikrah)
+  [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=franklineo&limit=2&bg=blue&text=black)](https://medium.com/@omidnikrah)
 
