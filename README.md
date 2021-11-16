@@ -1,5 +1,7 @@
 ![image info](./header.png)
 
+# Hi 👋, I'm Frankline
+
 - 🔭 I’m currently working on Twitter Sentiment Analysis using BERT models
 - 🌱 I’m currently learning Machine Learning Operations and Python
 - 👯 I’m looking to collaborate on open source tools and projects on Natural Language Processing and Data Science
@@ -13,8 +15,6 @@
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franklinen)](https://github.com/anuraghazra/github-readme-stats)
 
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franklinen)](https://github.com/anuraghazra/github-readme-stats)
-
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=franklinen&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - Latest medium article
