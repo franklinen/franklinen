@@ -7,9 +7,14 @@
 - 💬 Ask me about Technical Writing, Data Science Projects, Coaching, Help with Projects, Freelance Projects 
 - 📫 How to reach me:  
 - ⚡ Fun fact: I enjoy data science more when i am able to travel and see the country side
+
+
+
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franklinen)](https://github.com/anuraghazra/github-readme-stats)
+
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franklinen)](https://github.com/anuraghazra/github-readme-stats)
 
 - Latest medium article
 
-  [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=franklineo&limit=1&bg=white&text=black)](https://medium.com/@omidnikrah)
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=franklineo&limit=1&bg=white&text=black)](https://medium.com/@omidnikrah)
 
