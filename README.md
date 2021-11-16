@@ -9,6 +9,6 @@
 - ⚡ Fun fact: I enjoy data science more when i am able to travel and see the country side
 
 - Latest medium article
--
-- [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=franklineo)](https://medium.com/@omidnikrah)
+
+  [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=franklineo)](https://medium.com/@omidnikrah)
 
