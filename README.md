@@ -1,4 +1,4 @@
-## Hi 👋, I'm Frankline
+## Hi 👋, I'm Frankline & I'm a Data Scientist
 
 I design, build, and operate machine learning systems that serve customers at scale. Currently, I'm an Data scientist at SharpestMinds helping users glean insights from data using statistics and other data science methods.  
 
