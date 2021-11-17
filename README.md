@@ -10,9 +10,7 @@ I design, build, and operate machine learning systems that serve customers at sc
 - 📫 How to reach me:  
 - ⚡ Fun fact: I enjoy data science more when i am able to travel and see the country side
 
-
-
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franklinen&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franklinen&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franklinen&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franklinen&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
 
 - Latest medium article
