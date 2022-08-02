@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Frankline & I'm a Data Scientist
 
-I design, build, and operate machine learning systems that serve customers at scale. Currently, I'm an Data scientist at SharpestMinds helping users glean insights from data using statistics and other data science methods.  
+I design, build, and operate machine learning systems that serve customers at scale. Currently, I'm an Data scientist at TD Canada Trust helping users glean insights from data using statistics and other data science methods in the Test and Learn team.  
 
 - 🔭 I’m currently working on Twitter Sentiment Analysis using BERT models and contributing to open NLP projects 
 - 🌱 I’m currently learning Machine Learning Operations, Statistics, SQL and Python
