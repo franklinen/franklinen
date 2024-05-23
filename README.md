@@ -1,12 +1,12 @@
 ## Hi 👋, I'm Frankline & I'm a Data Scientist
 
-I design, build, and operate machine learning systems that serve customers at scale. Currently, I'm an Data scientist at TD Canada Trust helping users glean insights from data using statistics and other data science methods in the Test and Learn team.  
+I design, build, and operate machine learning systems that serve customers at scale. Currently, I'm a Data scientist. I help users glean insights from data using statistics, Machine learning, and other data science methods.  
 
 - 🔭 I’m currently working on Twitter Sentiment Analysis using BERT models and contributing to open NLP projects 
 - 🌱 I’m currently learning Machine Learning Operations, Statistics, SQL and Python
 - 👯 I’m looking to collaborate on open source tools and projects on Natural Language Processing and Data Science
 - 💬 Ask me about Technical Writing, Data Science Projects, Coaching, Help with Projects, Freelance Projects 
-- ⚡ Fun fact: I enjoy data science more when I am able to travel and see the country side
+- ⚡ Fun fact: I enjoy data science more when I can travel and see the countryside
 
 
 
