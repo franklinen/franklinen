@@ -2,8 +2,8 @@
 
 I design, build, and operate machine learning systems that serve customers at scale. Currently, I'm a Data scientist. I help users glean insights from data using statistics, Machine learning, and other data science methods.  
 
-- 🔭 I’m currently working on Twitter Sentiment Analysis using BERT models and contributing to open NLP projects 
-- 🌱 I’m currently learning Machine Learning Operations, Statistics, SQL and Python
+- 🔭 I’m currently working on designing, and implementing machine learning models on various projects coming from organizations from all around the world ranging from various fields of AI.
+- 🌱 I’m currently learning Machine Learning Operations, Statistics, LLM, RAG
 - 👯 I’m looking to collaborate on open source tools and projects on Natural Language Processing and Data Science
 - 💬 Ask me about Technical Writing, Data Science Projects, Coaching, Help with Projects, Freelance Projects 
 - ⚡ Fun fact: I enjoy data science more when I can travel and see the countryside
